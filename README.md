@@ -1,4 +1,4 @@
-# Node.js Array
+# Node.js Postgres
 
-Node.js with Persistence in Memory (Array)
+Node.js with Persistence in Database (Postgres)
 
